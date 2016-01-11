@@ -1,0 +1,14 @@
+## RIM Java Development Environment
+# RIM Workspace file
+[BuildConfigurations
+Debug
+Release
+]
+[Projects
+com\msohm\dopeWarsLibrary\DopeWarsLibrary.jdp
+com\msohm\pub\dopeWars\DopeWarsPub.jdp
+]
+[ReleaseActiveProjects
+com\msohm\dopeWarsLibrary\DopeWarsLibrary.jdp
+com\msohm\pub\dopeWars\DopeWarsPub.jdp
+]
