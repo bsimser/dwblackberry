@@ -1,0 +1,47 @@
+## RIM Java Development Environment
+# RIM Project file
+AlwaysBuild=0
+[AlxImports
+]
+AutoRestart=0
+[BuildOnlyFiles
+]
+[ClassProtection
+]
+[DefFiles
+]
+[DependencyFiles
+]
+[DependsOn
+DopeWarsLibrary
+]
+ExcludeFromBuildAll=0
+[Files
+DopeWars.java
+DopeWarsHighScores.java
+DopeWarsSyncItem.java
+HighScoreScreen.java
+syringe.png
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+syringe.png
+]
+[Imports
+]
+Listing=0
+NoImport=0
+Options=-quiet
+OutputFileName=DopeWarsPub
+[PackageProtection
+]
+RibbonPosition=10
+RunOnStartup=0
+StartupTier=7
+SystemModule=0
+Title=Dope Wars
+Type=0
+Vendor=Mark Sohm
+Version=1.14
